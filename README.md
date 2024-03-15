@@ -1,2 +1,2 @@
 # Pyton
-Projetos em pyton
+Projetos em python
